@@ -2,7 +2,7 @@
 
 int main(){
 
-printf(“Hello! I am C-Program. Thank you!”);
+printf(“Hello all! I am C-Program. Thank you!”);
 
 return 0;
 
